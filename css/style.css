@@ -49,6 +49,7 @@ pre, code{
 
 .hidden{
     visibility: hidden;
+    height: 0px;
 }
 /* Nav-bar */
 .navbar{
